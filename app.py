@@ -1798,7 +1798,7 @@ def main():
                  st.info(ui_translator("no_profile_loaded_info"))
 
         # --- Modified Line ---
-        st.markdown("<p style='font-size: x-small;'>Made By Advait Kawale</p>", unsafe_allow_html=True)
+        st.markdown("<p style='font-size: x-small;'>Made By Keyur Gorantiwar</p>", unsafe_allow_html=True)
         # --- End of Modification ---
 
 
